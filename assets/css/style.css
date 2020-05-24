@@ -46,7 +46,7 @@ a {
 
 
 
-/* Hero Style Start */
+/* hero style start */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,7 +55,9 @@ a {
     background-size: cover;
     background-position: center;
 }
+/* end hero style */
 
+/* core content style start */ 
 p {
     font-size: 18px;
     font-weight: bold;
