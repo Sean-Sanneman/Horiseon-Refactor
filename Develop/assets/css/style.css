@@ -42,6 +42,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* end header style */
 
 
 
@@ -77,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+
 .core {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,6 +125,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer style start */
 
 .footer {
     padding: 30px;
